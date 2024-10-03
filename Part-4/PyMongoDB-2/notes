@@ -1,0 +1,13 @@
+API URL: https://jsonplaceholder.typicode.com/users
+
+Task: write a python script-
+     consume USER API and 
+     insert user id, 
+            username,
+	    city,
+	    website 
+     information into user collection in mongodb.
+
+Step1: How to invoke Rest API in python?
+-using requests modules
+ 
